@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HuaShang.iml" filepath="$PROJECT_DIR$/HuaShang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MAterial_Animations_master/MAterial_Animations_master.iml" filepath="$PROJECT_DIR$/MAterial_Animations_master/MAterial_Animations_master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PercentDemo/PercentDemo.iml" filepath="$PROJECT_DIR$/PercentDemo/PercentDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/Test1.iml" filepath="$PROJECT_DIR$/Test1/Test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huashang/huashan.iml" filepath="$PROJECT_DIR$/huashang/huashan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test2/test2.iml" filepath="$PROJECT_DIR$/test2/test2.iml" />
+    </modules>
+  </component>
+</project>
